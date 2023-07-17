@@ -1,3 +1,3 @@
-module gitea.home/toolkit-project/toolkit
+module github.com/folkersj/toolkit
 
 go 1.20
